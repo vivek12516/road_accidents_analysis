@@ -23,8 +23,6 @@ This interactive Power BI dashboard provides a comprehensive analysis of road ac
 2. Open the file using **Power BI Desktop**.
 3. Use the **State/UT Slicer** on the bottom right to interact with the data.
 
-## Project Screenshots
-![Dashboard Screenshot](link-to-your-screenshot-here.png)
 
 ---
 **Developed by:** Vivek Vijay Pal  
