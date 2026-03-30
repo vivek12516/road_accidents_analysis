@@ -1,4 +1,4 @@
-# India Road Accident Analysis Dashboard (2014-2017) 🚦🚗
+# India Road Accident Analysis POWER BI Dashboard (2014-2017) 🚦🚗
 
 ## Project Overview
 This interactive Power BI dashboard provides a comprehensive analysis of road accidents across various States and Union Territories in India over a four-year period. The goal of this project is to identify high-risk zones, peak accident hours, and year-over-year trends to help visualize road safety data effectively.
